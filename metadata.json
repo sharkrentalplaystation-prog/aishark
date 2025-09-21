@@ -1,0 +1,5 @@
+{
+  "name": "Video Ai Generator @Shortefyepe",
+  "description": "An application to generate consistent and well-structured prompts for the Veo 3 video generation model. Users can fill in detailed fields about characters, background, camera settings, and audio to create a comprehensive prompt.",
+  "requestFramePermissions": []
+}
